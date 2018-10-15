@@ -39,17 +39,19 @@ https://wanglei198701.github.io/myBlog/
 学霸君B轮融资获5000万美金，17年1月20日完成C轮1亿美元融资。18年tob的在线教育业务出售给了今日头条，16年学霸君与小米合作，获得一大流量入口。对比以上两款产品，没有强大后台支撑并遭到一线入口平台封杀的学霸君一直把寻找优质的流量入口放在重要战略位置。
 
 ### 2.2、结构及逻辑分析
-作业帮<br>
+<br>作业帮<br>
 ![image](https://github.com/wanglei198701/myBlog/blob/master/picture/zuoyebang.png?raw=true)
-小猿搜题<br>
+<br>小猿搜题<br>
 ![image](https://github.com/wanglei198701/myBlog/blob/master/picture/xiaoyuanshouti.png?raw=true)
-学霸君<br>
+<br>学霸君<br>
 ![image](https://github.com/wanglei198701/myBlog/blob/master/picture/xuebajun.png?raw=true)
 
-从信息架构上看，三者底部导航栏的构造能够显示各家产品的侧重点和主要功能。三款竞品的底部导航栏布局情况：<br>
+<br>从信息架构上看，三者底部导航栏的构造能够显示各家产品的侧重点和主要功能。三款竞品的底部导航栏布局情况：<br>
+
     作业帮：“一课“、”1对1“、“拍照”、“我的”、“发现”
     小猿搜题：“首页”、“猿辅导”、“商城”、“发现”、“我”
     学霸君：“搜题”、“练习”、“发现”、“我的”
+
 
 
 
