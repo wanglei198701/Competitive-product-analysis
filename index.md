@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# 作业帮、小猿搜题、学霸君竞品分析
+## 1、产品信息
+### 1.1、产品名称
 
-You can use the [editor on GitHub](https://github.com/wanglei198701/myBlog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+目前K12互联网教育主要有以下四种典型细分市场：
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+家教平台（好老师，请他教）
+题库（易题库，猿题库）
+在线教学（高能100，酷学习）
+作业答疑（作业帮，学霸君，小猿搜题）
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wanglei198701/myBlog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+git config --global user.name wanglei198701
+git config --global user.email 363052871@qq.com
