@@ -11,11 +11,12 @@ https://wanglei198701.github.io/myBlog/
     在线教学（高能100，酷学习）
     作业答疑（作业帮，学霸君，小猿搜题）
 
-```java
+
 ![image](https://github.com/wanglei198701/myBlog/blob/master/picture/tupian1.png?raw=true)
 <br>上图为易观千帆指数2018年10月8日排名截图，中小学在线教育前10名产品名称，选择前两名作业帮、小猿搜题和第八名的学霸君三款具有代表性的产品进行分析。
 ### 1.2、体验环境
-```
+
+
 ```java
 体验产品：学霸君5.3.0 vs 作业帮11.1.0 vs 小猿搜题8.1.0
 设备型号：小米MIX 2S
