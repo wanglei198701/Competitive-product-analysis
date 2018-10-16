@@ -1,4 +1,9 @@
 # 作业帮、小猿搜题、学霸君竞品分析
+
+<h3>
+<a href="https://github.com/wanglei198701/Competitive-product-analysis/blob/master/%E6%95%99%E8%82%B2%E7%BA%BF%E4%B8%8A%E4%BA%A7%E5%93%81%E7%AB%9E%E5%93%81%E5%88%86%E6%9E%90.docx?raw=true" target="_blank" class="color">word下载链接</a>
+</h3>
+
 ## 1、产品信息
 ### 1.1、产品名称
 
